@@ -10,6 +10,13 @@
 - ⚡ Fun fact: ...
 
 
+<div>
+  <a href="https://github.com/Arthurdr18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurdr18&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdr18&layout=compact&langs_count=16theme=neon"/>
+</div>
+
+
 
 
 
