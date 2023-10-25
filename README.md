@@ -2,9 +2,7 @@
 
 - 📚 Trabalhando como estudante
 - 🖥️ Estou aprendendo Javascript, HTML e CSS
-- 💬 Ask me about ...
 - 😎 Pronomes: ele/dele
-- ⚡ Fun fact: ...
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthurdr18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
