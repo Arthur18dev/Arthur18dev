@@ -18,9 +18,9 @@
 
 
 
-
-
-
+<div styler="display: inline_block"><br>
+<img align="right" alt="Arthur-icon" src="https://s2-autoesporte.glbimg.com/o0OHLxioG1nBTILH2VLJSuWs408=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/V/I/am0rWMRSibtX3qpkG0mw/2018-07-17-akirafoto.jpg>
+  </div>
 
 
 
