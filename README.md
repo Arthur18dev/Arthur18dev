@@ -18,10 +18,6 @@
 
 
 
-<div styler="display: inline_block"><br>
-<img align="right" alt="Arthur-icon" src="https://cdn.ome.lt/6ok8RgMUa343LIexe62hn3nQPcc=/fit-in/837x500/smart/uploads/conteudo/fotos/akira.jpg">
-  </div>
-
 
 
 
