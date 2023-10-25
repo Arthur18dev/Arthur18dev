@@ -19,7 +19,7 @@
 
 
 <div styler="display: inline_block"><br>
-<img align="right" alt="Arthur-icon" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motoplanete.com%2Fspecial--fiction%2F212%2FAKIRA---moto-de-Kaneda-2019%2Fcontact.html&psig=AOvVaw3x7unYU2CirU8ydWdem5a0&ust=1698327479970000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPC1z4upkYIDFQAAAAAdAAAAABAI">
+<img align="right" alt="Arthur-icon" src="https://www.motoplanete.com/special--fiction/212/AKIRA---moto-de-Kaneda-2019/contact.html#galerie">
   </div>
 
 
