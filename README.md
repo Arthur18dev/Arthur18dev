@@ -6,8 +6,8 @@
 
 # Estatísticas do GitHub
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Arthurdr18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdr18&layout=compact&langs_count=&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Arthurdr18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdr18&layout=compact&langs_count=&theme=github_dark"/>
 </div>
 <br>
 
