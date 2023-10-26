@@ -7,7 +7,7 @@
 # Estatísticas do GitHub
 <div>
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Arthurdr18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdr18&layout=compact&langs_count=&theme=github_dark"/>
+  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdr18&layout=compact&langs_count=&theme=github_dark"/>
 </div>
 <br>
 
