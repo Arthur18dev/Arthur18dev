@@ -1,6 +1,6 @@
 ## Olá! sou o Arthur👍
 
-- 📚 Estou cursando o Ensino Médio
+- 📚 Completei o Ensino Médio
 - 🖥️ Estou aprendendo Javascript, HTML e CSS
 - 😎 Pronomes: ele/dele
 
