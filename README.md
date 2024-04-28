@@ -24,9 +24,9 @@
 
 <img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
-<i class="devicon-react-original colored"></i>
+<img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<i class="devicon-reactbootstrap-original colored"></i>
+<img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
 </div>
 
 
