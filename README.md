@@ -1,7 +1,7 @@
 ## Olá! sou o Arthur👍
 
 - 📚 Completei o Ensino Médio
-- 🖥️ Estou aprendendo Javascript, HTML e CSS
+- 🖥️ Estou aprendendo Javascript, HTML, CSS e react 
 - 😎 Pronomes: ele/dele
 
 # Estatísticas do GitHub
