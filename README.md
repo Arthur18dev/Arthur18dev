@@ -1,4 +1,4 @@
-## Olá! sou o Arthur👍
+## Olá! sou o Arthur👍 
 
 - 📚 Ensino Médio completo
 - 🖥️ Estou aprendendo Javascript, HTML, CSS e react 
