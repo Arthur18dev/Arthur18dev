@@ -32,5 +32,7 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Arthur18dev/count.svg?"  />
+</div>
 # <>------------------------------Arthur------------------------------</>
