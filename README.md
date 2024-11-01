@@ -5,11 +5,17 @@
 - 😎 Pronomes: ele/dele
 
 # Estatísticas do GitHub
-<div>
+<div  align="center">
   
-  <img align="center" alt="languages graph" height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthur18dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-  <img align="center" alt="languages graph" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur18dev&layout=compact&card_width=320&langs_count=16&theme=github_dark"/>
+  <img alt="stats graph"  height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthur18dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <img alt="languages graph" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur18dev&layout=compact&card_width=320&langs_count=16&theme=github_dark"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur18dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur18dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <br/>
 
 # Linguagens que uso 👍
