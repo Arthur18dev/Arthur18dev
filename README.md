@@ -3,7 +3,9 @@
 - 📚 Ensino Médio completo
 - 🧑‍💻 Estou aprendendo Javascript, HTML, CSS, react e Python 
 - 😎 Pronomes: ele/dele
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Arthur18dev/count.svg?"  />
+</div>
 # Estatísticas do GitHub
 <div  align="center">
   
@@ -31,8 +33,4 @@
 <img align="center" alt="Arthur-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Arthur18dev/count.svg?"  />
-</div>
 # <>------------------------------Arthur------------------------------</>
