@@ -1,4 +1,5 @@
-  ## Olá! sou o Arthur👍 
+  ## Olá! sou o Arthur👍 ![CarFastCarGIF (2)](https://github.com/user-attachments/assets/7e4c51cf-f9d2-41bc-a8ab-963c64d2b181)
+
 
 - 📚 Ensino Médio completo
 - 🧑‍💻 Estou aprendendo Javascript, HTML, CSS, react e Python 
