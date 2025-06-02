@@ -1,4 +1,4 @@
-  ## Olá! sou o Arthur👍![ClipWindowsGIF](https://github.com/user-attachments/assets/14a8dd43-5108-40ab-b6d1-636b32d658b7)
+  ## Olá! sou o Arthur👍
 
 
 
