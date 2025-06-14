@@ -54,4 +54,4 @@
 
 # <>------------------------------Arthur------------------------------</>
 
-<img alt="sly_cooper2" src="![Sly_cooper(2)](https://github.com/user-attachments/assets/e26bc2ea-2950-4e57-a9b8-924420abb44e)"> 
+<img alt="sly_cooper2" src="https://github.com/user-attachments/assets/e26bc2ea-2950-4e57-a9b8-924420abb44e"> 
