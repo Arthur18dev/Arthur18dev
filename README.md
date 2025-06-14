@@ -54,4 +54,4 @@
 
 # <>------------------------------Arthur------------------------------</>
 
-<img align="center" alt="sly_cooper2" width="900" height="100" src="https://github.com/user-attachments/assets/e26bc2ea-2950-4e57-a9b8-924420abb44e"> 
+<img align="center" alt="sly_cooper2" width="900" height="300" src="https://github.com/user-attachments/assets/e26bc2ea-2950-4e57-a9b8-924420abb44e"> 
