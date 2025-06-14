@@ -53,3 +53,5 @@
 </div>
 
 # <>------------------------------Arthur------------------------------</>
+
+<img![Sly_cooper(2)](https://github.com/user-attachments/assets/e26bc2ea-2950-4e57-a9b8-924420abb44e)>
