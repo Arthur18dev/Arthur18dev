@@ -10,7 +10,7 @@
 <div  align="center">
   
   <img alt="stats graph" height="160px" src="https://github-readme-stats.vercel.app/api?username=Arthur18dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&v=1"/> 
-  <img alt="languages graph" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur18dev&layout=compact&card_width=320&langs_count=5&theme=github_dark"/>
+  <img alt="languages graph" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur18dev&layout=compact&card_width=320&langs_count=5&theme=github_dark&cache_buster=42"/>
 </div>
 <br/>
 
