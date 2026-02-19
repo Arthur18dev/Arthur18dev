@@ -9,9 +9,9 @@
 # Estatísticas do GitHub
 <div  align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthur18dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=arthur18dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur18dev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=arthur18dev&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arthur18dev&theme=tokyonight)
 
