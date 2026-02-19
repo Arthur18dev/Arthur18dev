@@ -54,8 +54,9 @@
 <img align="center" alt="Arthur-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-# <>------------------------------Arthur------------------------------</>
 <img align="center" alt="sly_cooper2" width="900" height="200" src="https://github.com/user-attachments/assets/8914c484-651b-4b93-937f-abc1f60406a8">
+# <>------------------------------Arthur------------------------------</>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
