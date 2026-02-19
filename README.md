@@ -9,9 +9,11 @@
 # Estatísticas do GitHub
 <div  align="center">
   
- <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arthur18dev&show_icons=true&theme=github_dark" />
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arthur18dev&layout=compact&theme=github_dark" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthur18dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur18dev&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arthur18dev&theme=tokyonight)
 
 </div>
 <br/>
