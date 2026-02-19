@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arthur18dev&theme=github-dark" />
 
-<img src="https://streak-stats.demolab.com?user=Arthur18dev&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?username=Arthur18dev&theme=tokyonight" />
 
 </div>
 <br/>
