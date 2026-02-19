@@ -60,3 +60,7 @@
 
 <img align="center" alt="sly_cooper2" width="900" height="200" src="https://github.com/user-attachments/assets/8914c484-651b-4b93-937f-abc1f60406a8">
 
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
+</p>
+
