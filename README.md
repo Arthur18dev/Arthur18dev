@@ -10,10 +10,10 @@
 <div  align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur18dev&theme=gotham" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthur18dev&theme=gotham" width="49%" />
 </p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur18dev&theme=gotham" />   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="49%" />   
 </div>
 <br/>
 
