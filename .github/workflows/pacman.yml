@@ -23,3 +23,11 @@ jobs:
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Commit and push graphs
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/*.svg
+          git commit -m "Update pacman graphs" || echo "No changes to commit"
+          git push
