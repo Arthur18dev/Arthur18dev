@@ -19,7 +19,7 @@
 <br/>
 
 <details>
-  <summary align="center">🛠 Tecnologias que uso 👇</summary>
+  <summary align="center">Mais info</summary>
 
 # Rede sociais
 <div align="left">
@@ -36,6 +36,7 @@
   </a>
 </div>
 
+# 🛠 Tecnologias que uso 👇
 <div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" align="center" alt="javascript logo" />
   <img width="12" />
