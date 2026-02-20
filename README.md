@@ -34,46 +34,26 @@
 </div>
 
 <details>
-  <summary><div align="center">🛠 Tecnologias que uso 👇</div></summary>
+  <summary>🛠 Tecnologias que uso 👇</summary>
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" align="center" alt="javascript logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" align="center" alt="html5 logo" />
   <img width="12" />
-    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" align="center" alt="css3 logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="40" align="center" alt="nodemon" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" align="center" alt="nodejs logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" align="center" alt="react logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" height="40" align="center" alt="reactbootstrap logo" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" align="center" alt="python logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" align="center" alt="git logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" align="center" alt="jupyter logo" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" align="center" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" align="center" alt="insomnia logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" align="center" alt="figma logo" />
   <img width="12" />
 </div>
 
