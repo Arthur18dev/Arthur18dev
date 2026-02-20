@@ -18,6 +18,9 @@
 </div>
 <br/>
 
+<details>
+  <summary align="center">🛠 Tecnologias que uso 👇</summary>
+
 # Rede sociais
 <div align="left">
   <a href="https://www.instagram.com/arthur_guicampos">
@@ -32,9 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedIn logo"/>
   </a>
 </div>
-
-<details>
-  <summary align="center">🛠 Tecnologias que uso 👇</summary>
 
 <div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" align="center" alt="javascript logo" />
