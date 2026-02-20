@@ -1,5 +1,6 @@
-  ## Olá! sou o Arthur👍
-
+<div align="center">
+## Olá! sou o Arthur👍
+</div>
 
 
 - 📚 Ensino Médio completo
