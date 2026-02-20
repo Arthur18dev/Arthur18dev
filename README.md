@@ -34,7 +34,7 @@
 </div>
 
 <details>
-  <summary><div align="center">🛠 Tecnologias que uso 👇</div></summary>
+  <summary align="center"><div align="center">🛠 Tecnologias que uso 👇</div></summary>
 
 <div align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" align="center" alt="javascript logo" />
