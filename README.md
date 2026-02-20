@@ -57,7 +57,11 @@
 
 <img align="center" alt="sly_cooper2" width="900" height="200" src="https://github.com/user-attachments/assets/8914c484-651b-4b93-937f-abc1f60406a8">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arthur18dev/arthur18dev/output/pacman-contribution-graph-dark.svg">
-</p>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph.svg">
+</picture>
 
