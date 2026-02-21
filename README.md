@@ -14,7 +14,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur18dev&theme=gotham" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthur18dev&theme=gotham" />
 </p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="70%" />   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="66%" />   
 </div>
 <br/>
 
