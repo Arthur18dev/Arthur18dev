@@ -49,7 +49,7 @@
 
 <br>
 <div align="center">
-  <h3><>-------------- Arthur -------------</></h3>
+  <>--------------- Arthur ---------------</>
   <img alt="sly_cooper" src="https://github.com/user-attachments/assets/8914c484-651b-4b93-937f-abc1f60406a8" style="max-width: 100%;" width="800">
 </div>
 
