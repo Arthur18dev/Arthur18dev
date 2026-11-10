@@ -11,7 +11,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur18dev&theme=gotham" width="350" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthur18dev&theme=gotham" width="350" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="700" />   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur18dev&theme=gotham" width="700" />    
 </div>
 
 <br/>
@@ -49,17 +49,17 @@
 
 <br>
 
-
 <div align="center">
   <img alt="sly_cooper" src="https://github.com/user-attachments/assets/8914c484-651b-4b93-937f-abc1f60406a8" style="max-width: 100%;" width="800">
 </div>
 
 <br>
 
+<!-- Animação do Zelda / Link no gráfico de contribuições -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/pacman-contribution-graph.svg" style="max-width: 100%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/github-contribution-grid-snake.svg">
+    <img alt="zelda contribution graph" src="https://raw.githubusercontent.com/Arthur18dev/Arthur18dev/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
   </picture>
 </div>
